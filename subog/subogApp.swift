@@ -11,7 +11,7 @@ import SwiftUI
 struct subogApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            CC()
         }
     }
 }
